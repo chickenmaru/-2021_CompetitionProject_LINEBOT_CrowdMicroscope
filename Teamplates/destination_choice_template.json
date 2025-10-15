@@ -1,0 +1,26 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "text": "我有明確目的地",
+          "label": "有明確目的地"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "哪裡可以去",
+          "text": "有哪裡可以去呢?"
+        }
+      }
+    ],
+    "margin": "none"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "size": {
+    "width": 1250,
+    "height": 843
+  },
+  "selected": true,
+  "name": "圖文選單 1",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 35,
+        "y": 4,
+        "width": 378,
+        "height": 817
+      },
+      "action": {
+        "type": "message",
+        "text": "查詢景點"
+      }
+    },
+    {
+      "bounds": {
+        "x": 438,
+        "y": 21,
+        "width": 374,
+        "height": 254
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://hackmd.io/@KOrtfb6yS-m2jPziF_tCxg/HkIxjiRSF"
+      }
+    },
+    {
+      "bounds": {
+        "x": 836,
+        "y": 23,
+        "width": 385,
+        "height": 800
+      },
+      "action": {
+        "type": "message",
+        "text": "附近有什麼"
+      }
+    },
+    {
+      "bounds": {
+        "x": 435,
+        "y": 287,
+        "width": 378,
+        "height": 258
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://hackmd.io/@KOrtfb6yS-m2jPziF_tCxg/BJdn9iArt"
+      }
+    },
+    {
+      "bounds": {
+        "x": 442,
+        "y": 562,
+        "width": 374,
+        "height": 262
+      },
+      "action": {
+        "type": "message",
+        "text": "聯絡我們"
+      }
+    }
+  ]
+}

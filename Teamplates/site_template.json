@@ -1,0 +1,112 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "\u83ef\u5c711914\u6587\u5316\u5275\u610f\u7522\u696d\u5712\u5340",
+                "size": "xl",
+                "margin": "none",
+                "contents": [],
+                "offsetBottom": "2px",
+                "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "\u964d\u96e8\u6a5f\u7387: 10.0%",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "text",
+                "text": "\u9ad4\u611f\u6eab\u5ea6: 18.6\u00b0C",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "text",
+                "text": "\u4eba\u6d41: 75.4%",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "filler",
+                        "width": "42.3%"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "height": "6px",
+                        "width": "45.1%",
+                        "margin": "none",
+                        "backgroundColor": "#DE5658",
+                        "paddingAll": "12px",
+                        "position": "relative",
+                        "paddingBottom": "15px"
+                    }
+                ],
+                "backgroundColor": "#FAD2A76E",
+                "margin": "none",
+                "offsetTop": "6px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "45.1%",
+                        "align": "center",
+                        "offsetTop": "5px",
+                        "size": "22px"
+                    }
+                ],
+                "spacing": "none",
+                "offsetTop": "3px",
+                "text": "42.3%"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "text": "\u83ef\u5c71\u6587\u5275\u5712\u5340\u6240\u5728\u5730\u7684\u540d\u7a31\u7531\u4f86\uff0c\u5728\u6e05\u671d\u6642\u671f\u539f\u7a31\u4e09\u677f\u6a4b\u5e84\u5927\u7af9\u570d\uff0c\u81f3\u897f\u51431922\u5e74\uff0c\u65e5\u6cbb\u6642\u671f\u53f0\u7063\u7e3d\u7763\u5e9c\u5ee2\u53f0\u5317\u820a\u6709\u8857\u5e84\u540d\uff0c\u6539\u7a31\u300c\u6a3a\u5c71\u753a\u300d\u3002\u800c\u300c\u6a3a\u5c71\u300d\u7684\u540d\u7a31\u4e43\u53d6\u81ea\u65e5\u672c\u6cbb\u53f0\u7684\u9996\u4efb\u53f0\u7063\u7e3d\u7763\u300c\u6a3a\u5c71\u8cc7\u7d00\u300d\u7684\u540d\u5b57\u800c\u4f86\uff0c\u7576\u6642\u4f4d\u65bc\u6a3a\u5c71\u753a\u5305\u542b\u53f0\u5317\u5e02\u5f79\u6240\uff08\u4eca\u884c\u653f\u9662\u9662\u5740\uff09\uff0c\u6a3a\u5c71\u8ca8\u904b\u7ad9\uff0c\u53f0\u5317\u9152\u5ee0\u7b49\u653f\u5e9c\u55ae\u4f4d\uff0c\u662f\u65e5\u6cbb\u6642\u671f\u53f0\u5317\u5e02\u90fd\u5e02\u8a08\u756b\u6240\u898f\u756b\u958b\u767c\u7684\u5730\u5340...",
+                            "label": "\u666f\u9ede\u6545\u4e8b"
+                        },
+                        "style": "primary",
+                        "height": "sm",
+                        "gravity": "bottom",
+                        "margin": "xl",
+                        "position": "relative",
+                        "color": "#0080FF",
+                        "offsetEnd": "8px"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "\u9644\u8fd1\u6709\u4ec0\u9ebc",
+                            "text": "\u666f\u9ede\u9644\u8fd1\u6709\u5565"
+                        },
+                        "position": "relative",
+                        "margin": "xl",
+                        "style": "primary",
+                        "gravity": "bottom",
+                        "height": "sm",
+                        "offsetEnd": "6px"
+                    }
+                ],
+                "margin": "none",
+                "offsetTop": "10px",
+                "spacing": "none"
+            }
+        ]
+    }
+}

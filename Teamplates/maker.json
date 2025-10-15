@@ -1,0 +1,75 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/jPJPITC.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Big Data",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#0099ff"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "來自中大的團隊"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "baseline",
+          "contents": [
+            {
+              "type": "icon",
+              "url": "https://i.imgur.com/4G4LFjU.png"
+            },
+            {
+              "type": "text",
+              "text": "???@ncu.edu.tw"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "baseline",
+          "contents": [
+            {
+              "type": "icon",
+              "url": "https://i.imgur.com/gzfW90Q.png"
+            },
+            {
+              "type": "text",
+              "text": "我們的介紹"
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "Website",
+            "uri": "https://tw.yahoo.com/"
+          }
+        }
+      ]
+    }
+  }

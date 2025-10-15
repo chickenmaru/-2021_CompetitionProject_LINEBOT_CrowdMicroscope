@@ -1,0 +1,124 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "\u81fa\u9435\u81fa\u5317\u8eca\u7ad9",
+                "size": "xl",
+                "margin": "none",
+                "contents": [],
+                "offsetBottom": "2px",
+                "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "\u964d\u96e8\u6a5f\u7387: 40.0%",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "text",
+                "text": "\u9ad4\u611f\u6eab\u5ea6: 18.4\u00b0C",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "text",
+                "text": "\u9ad4\u611f\u6eab\u5ea6: 19.1\u00b0C",
+                "offsetBottom": "2px"
+            },
+            {
+                "type": "text",
+                "text": "\u76ee\u524d\u4eba\u6d41: 81.3%",
+                "offsetBottom": "5px"
+            },
+            {
+                "type": "text",
+                "text": "\u98a8\u96aa\u6307\u6578",
+                "weight": "bold",
+                "size": "17px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "filler",
+                        "width": "42.3%"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "height": "6px",
+                        "width": "57.1%",
+                        "margin": "none",
+                        "backgroundColor": "#DE5658",
+                        "paddingAll": "12px",
+                        "position": "relative",
+                        "paddingBottom": "15px"
+                    }
+                ],
+                "backgroundColor": "#FAD2A76E",
+                "margin": "none",
+                "offsetTop": "5px"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "57.1%",
+                        "align": "center",
+                        "offsetTop": "4px",
+                        "size": "22px",
+                        "weight": "bold"
+                    }
+                ],
+                "spacing": "none",
+                "offsetTop": "3px",
+                "text": "42.3%"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "text": "\u81fa\u5317\u8eca\u7ad9\uff08\u53f0\u7063\u9ad8\u9435\u3001\u81fa\u5317\u6377\u904b\u7a31\u70ba\u53f0\u5317\u8eca\u7ad9\uff09\u4f4d\u65bc\u81fa\u7063\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\uff0c\u70ba\u81fa\u7063\u9435\u8def\u7ba1\u7406\u5c40\u3001\u53f0\u7063\u9ad8\u901f\u9435\u8def\u3001\u53ca\u81fa\u5317\u6377\u904b\u4e09\u9435\u5171\u69cb\u7684\u5730\u4e0b\u5316\u9435\u8def\u8eca\u7ad9\uff0c\u4e5f\u662f\u81fa\u5317\u6377\u904b\u677f\u5357\u7dda\u3001\u6de1\u6c34\u4fe1\u7fa9\u7dda\u4e4b\u4ea4\u6703\u8eca\u7ad9\uff0c\u4e0d\u50c5\u662f\u5317\u81fa\u7063\u9996\u8981\u7684\u4ea4\u901a\u6a1e\u7d10\uff0c\u4e5f\u662f\u81fa\u7063\u5efa\u7bc9\u898f\u6a21\u8207\u904b\u91cf\u6700\u5927\u7684\u9435\u8def\u8eca\u7ad9\uff0c\u6bcf\u65e5\u8f49\u4e58\u7684\u65c5\u5ba2\u7d0450\u842c\u4eba\u6b21\u4ee5\u4e0a\uff0c\u7e3d\u4f7f\u7528\u4eba\u6b21\u5c45\u65bc\u5168\u7403\u7b2c25\u540d\u3002\u81fa\u5317\u8eca\u7ad9\u65bc1891\u5e747\u67085\u65e5\u8a2d\u7ad9\uff0c\u6b77\u7d93\u591a\u6b21\u9077\u79fb\u8207\u6539\u5efa\u5f8c\uff0c\u73fe\u4eca\u7ad9\u9ad4\u70ba1989\u5e749\u67082\u65e5\u555f\u7528\uff0c\u81fa\u9435\u5c40\u672c\u90e8\u4e5f\u8a2d\u65bc\u6b64\u5730\uff0c\u96a8\u8457\u6377\u904b\u3001\u9ad8\u9435\u9032\u99d0\u4e4b\u5f8c\uff0c\u5f62\u6210\u5e45\u54e1\u5ee3\u95ca\u7684\u5730\u4e0b\u8857\u5340...",
+                            "label": "\u666f\u9ede\u6545\u4e8b"
+                        },
+                        "style": "primary",
+                        "height": "sm",
+                        "gravity": "bottom",
+                        "margin": "xl",
+                        "position": "relative",
+                        "color": "#0080FF",
+                        "offsetEnd": "8px"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "\u9644\u8fd1\u6709\u4ec0\u9ebc",
+                            "text": "\u666f\u9ede\u9644\u8fd1\u6709\u5565"
+                        },
+                        "position": "relative",
+                        "margin": "xl",
+                        "style": "primary",
+                        "gravity": "bottom",
+                        "height": "sm",
+                        "offsetEnd": "6px"
+                    }
+                ],
+                "margin": "none",
+                "offsetTop": "10px",
+                "spacing": "none"
+            }
+        ]
+    }
+}
