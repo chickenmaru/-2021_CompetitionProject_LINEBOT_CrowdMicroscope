@@ -1,4 +1,4 @@
-# Core Product: CrowdLens (Line Bot)
+# Overview
 
 “Crowd prediction as the core, alternative recommendations as support.”
 Taiwan’s first Line-based scenic spot crowd prediction platform
